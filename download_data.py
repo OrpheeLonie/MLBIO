@@ -1,5 +1,4 @@
 import kaggle
-import json
 
 kaggle.api.authenticate()
 
